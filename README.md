@@ -7,4 +7,4 @@ blabla
 
 ## Otra sección
 
-Más charla
+Más charla. Más texto aún.
